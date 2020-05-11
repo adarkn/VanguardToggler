@@ -1,0 +1,7 @@
+C:\Users\nexus\source\repos\VanguardToggle\VanguardToggle\bin\Release\VanguardToggle.exe.config
+C:\Users\nexus\source\repos\VanguardToggle\VanguardToggle\bin\Release\VanguardToggle.exe
+C:\Users\nexus\source\repos\VanguardToggle\VanguardToggle\bin\Release\VanguardToggle.pdb
+C:\Users\nexus\source\repos\VanguardToggle\VanguardToggle\obj\Release\VanguardToggle.csprojAssemblyReference.cache
+C:\Users\nexus\source\repos\VanguardToggle\VanguardToggle\obj\Release\VanguardToggle.csproj.CoreCompileInputs.cache
+C:\Users\nexus\source\repos\VanguardToggle\VanguardToggle\obj\Release\VanguardToggle.exe
+C:\Users\nexus\source\repos\VanguardToggle\VanguardToggle\obj\Release\VanguardToggle.pdb
